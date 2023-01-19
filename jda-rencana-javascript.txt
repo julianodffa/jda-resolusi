@@ -3,5 +3,6 @@ Rencana Pembelajaran JS
 - Mengulang JS Dasar
 - Mengulang JS DOM
 - Belajar JS Asynchronous
+- Belajar Webpack
 - Belajar Express.js
 - Belajar Node JS
