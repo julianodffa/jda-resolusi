@@ -7,5 +7,6 @@ Rencana Pembelajaran JS
 - Belajar Webpack
 - Belajar Express.js
 - Belajar Node JS
-- Belajar Framework JS (Front-End)
-  *vue/react
+- Belajar Framework
+  ^angular
+  ^React
